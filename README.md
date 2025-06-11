@@ -1,5 +1,4 @@
 # Assignment
-This is a thing
 Rules:
 The game will play random sequences of light patterns that correspond to a button press combination. 
 
